@@ -1,3 +1,5 @@
+[смотреть страницу](https://dmkrupin.github.io/terem-test-assignment/)
+
 # Техзадание
 
 1. Верстка
